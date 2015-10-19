@@ -15,3 +15,9 @@ but this site no longer exists.
 
 All the scripts and workbooks are distributed as open source software under
 the GPLv3.0.
+
+To download from github, use the ``Download ZIP`` button on the github page.
+
+Please acknowledge the original authors by citing the above paper if you
+make use of their software.
+
